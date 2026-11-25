@@ -17,7 +17,7 @@ namespace OOP4Vardzar
             }
             else if (taskNumber == 2)
             {
-                Console.WriteLine("Тут буде завдання 2");
+                 Task2.Run(); 
             }
             else
             {
